@@ -3,13 +3,15 @@ body{
     font-weight: normal;
     font-size: 1em;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: linear-gradient(to right, #311d1d, #645d5d);
+    background-image: url(../imagens/jornal-americano.jpg);
+    background-position: center;
+    background-attachment: fixed;
 }
 
 main{
     width: 700px;
     margin: auto;
-    background-color: #4fe768c9;
+    background-color: #4fe768;
     border-radius: 10px;
 }
 
